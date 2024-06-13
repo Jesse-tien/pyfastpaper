@@ -981,6 +981,3 @@ draw_detail_area(expressions=expressions, assigns=assigns, the_var_x=the_var_x,
     </div>
 </div>      
 
-
-**该工具还有好多实用的功能，导入该工具包，相当于导入了sympy和Jupyter的$\LaTex$排版工具，可以实现例如符号计算、求导、化简、求方程组等高阶功能。具体地请关注我的线下讲解和单独答疑！**
-
