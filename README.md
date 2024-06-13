@@ -1,6 +1,8 @@
-# 第一部分：基础教程sci_tools 快速上手教程（针对Python 0基础的科研人员）
+# 第一部分：基础教程pyfastpaper 快速上手教程（针对Python 0基础的科研人员）
 
 ## 0  导入工具包
+
+> Python下载pyfastpaper：``pip install pyfastpaper``
 
 在你要存放图片的文件夹下右键，点击``在终端中打开(T)``（Windows 11系统），出现“黑窗”（术语为DOS界面），在里面输入``jupyter notebook``，按下回车，浏览器弹出，启动``Jupyter``，将该黑窗口最小化（千万别关！），浏览器编代码即可。
 
